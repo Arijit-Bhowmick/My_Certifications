@@ -9,3 +9,7 @@ Verify Certificate : https://verification.givemycertificate.com/v/76323ed3-bd40-
 ||| Week 2 |||
 Download Certificate : https://certificate.givemycertificate.com/c/6541d7b4-fa79-47c5-aa3f-90eb3156bb2d
 Verify Certificate : https://verification.givemycertificate.com/v/6541d7b4-fa79-47c5-aa3f-90eb3156bb2d
+
+||| Week 3 |||
+Download Certificate : https://certificate.givemycertificate.com/c/544f07cf-fa88-4850-b8ec-835a53629af9
+Verify Certificate : https://verification.givemycertificate.com/v/544f07cf-fa88-4850-b8ec-835a53629af9
