@@ -22,6 +22,10 @@ Verify Certificate : https://verification.givemycertificate.com/v/2944253d-d503-
 Download Certificate : https://certificate.givemycertificate.com/c/df73fc0c-b0d8-4b89-b7dd-7627dbe3f237
 Verify Certificate : https://verification.givemycertificate.com/v/2944253d-d503-4cd7-9dda-4bc49eb6910f
 
-||| Week 5 |||
+||| Week 6 |||
 Download Certificate : https://certificate.givemycertificate.com/c/7f9bd1a4-59c3-4f7a-863f-4e7b5991bb88
 Verify Certificate : https://verification.givemycertificate.com/v/7f9bd1a4-59c3-4f7a-863f-4e7b5991bb88
+
+||| Week 7 |||
+Download Certificate : https://certificate.givemycertificate.com/c/61c13c40-8d95-4fb2-955e-b860c1994ae8
+Verify Certificate : https://verification.givemycertificate.com/v/61c13c40-8d95-4fb2-955e-b860c1994ae8
