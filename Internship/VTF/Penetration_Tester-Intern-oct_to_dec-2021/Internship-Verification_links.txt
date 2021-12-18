@@ -37,3 +37,7 @@ Verify Certificate : https://verification.givemycertificate.com/v/3829a1fa-95bc-
 ||| Week 9 |||
 Download Certificate : https://certificate.givemycertificate.com/c/e1531de2-70c9-4a32-ac61-73cfa00dec98
 Verify Certificate : https://verification.givemycertificate.com/v/e1531de2-70c9-4a32-ac61-73cfa00dec98
+
+||| Week 10 | Internship Certificate |||
+Download Certificate : https://certificate.givemycertificate.com/c/8acd3c19-7b26-4fe5-821e-1fff3d538aa9
+Verify Certificate : https://verification.givemycertificate.com/v/8acd3c19-7b26-4fe5-821e-1fff3d538aa9
