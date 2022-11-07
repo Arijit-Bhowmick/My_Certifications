@@ -5,7 +5,7 @@ Author : Arijit Bhowmick
 ---
 # AUTHOR PROFILE
 ---
-
+```
 >> Website: sys41x4.github.io
 >> Blogs: Personal Blogging | Medium 
 >> GitHub: Arijit-Bhowmick | sys41x4 
@@ -58,5 +58,5 @@ $ My professional interests:
    
 
 ------------------------------------- sys41x4@zohomail.in | sys41x4@gmail.com ------------------------------------
-
+```
 
