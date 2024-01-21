@@ -1,0 +1,14 @@
+Course: Getting Started With CSI Linux
+Course URL: https://csilinux.com/academy/course/view.php?id=5
+DATE-TIME: Friday 06 October 2023 09:14:16 AM IST
+Verifiable Badge URL: https://csilinux.com/academy/badges/badge.php?hash=7566e42a50a21c28f679eeeb85a22b4562b9c0e9
+
+Course: CSI Linux Certified Investigator
+Course URL: https://csilinux.com/academy/course/view.php?id=5
+DATE-TIME: Wednesday 11 October 2023 11:54:16 PM IST
+Verifiable Badge URL: https://csilinux.com/academy/badges/badge.php?hash=d4291de13a2065e55249c325304f26e099d817c2
+
+Other-Badges:
+- https://csilinux.com/academy/badges/badge.php?hash=c0fedb97a4536a0c52a10efc9146a118328e691c
+- https://csilinux.com/academy/badges/badge.php?hash=b13893bd3ef71f548910852595d19ef719af1dcf
+
